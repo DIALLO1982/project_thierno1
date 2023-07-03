@@ -1,2 +1,3 @@
-contenu du fichier2 "hello monsieur"
-
+contenu du fichier2 
+"hello monsieur diallo "
+""""hello nouveau"""
